@@ -13,3 +13,10 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
 */
 
 /* Add your custom styles here */
+
+
+article.post{
+    width: 30%;
+    float: left;
+    margin: 0 15px;
+}
